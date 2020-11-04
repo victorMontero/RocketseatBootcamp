@@ -65,5 +65,5 @@ app.delete('/projects/:id', (request, response) => {
 });
 
 app.listen(3333, () => {
-    console.log('✨ your backend application has been started again')
+    console.log('✨ backend application has been started again')
 });
